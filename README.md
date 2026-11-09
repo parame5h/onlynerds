@@ -3,6 +3,11 @@
 An adaptive tutor that learns how you learn: it finds what you already know, spots the specific mistakes you
 make, teaches to those mistakes, and brings ideas back right before you would forget them.
 
+> 🏆 **Winner, Vyuham 26 hackathon.** Built by Team Hush.
+>
+> This is a copy of the project we built together. The original team repository is
+> [afsal63s/TEAMHUSH_VYUHAM26](https://github.com/afsal63s/TEAMHUSH_VYUHAM26), where the full commit history lives.
+
 - **Demo:** https://onlynerds-frontend.vercel.app/
 - **Demo video:** https://drive.google.com/file/d/1anBcibbKdrnpEPouV94bqIvSuDiwzX9C/view?usp=sharing
 
@@ -111,8 +116,8 @@ know. These are simulated learners, so the result depends on the simulator's ass
 ### 1. Clone
 
 ```bash
-git clone https://github.com/afsal63s/TEAMHUSH_VYUHAM26.git
-cd TEAMHUSH_VYUHAM26
+git clone https://github.com/parame5h/onlynerds.git
+cd onlynerds
 ```
 
 ### 2. Backend
@@ -175,3 +180,14 @@ uv run python scripts/evaluate.py   # offline evaluation, writes results/eval.md
 
 - API reference with examples: `backend/docs/API_REFERENCE.md`
 - Frontend notes: `frontend/README.md`
+
+## Team
+
+OnlyNerds was built by **Team Hush** at Vyuham 26, where it won the hackathon.
+
+| Contributor | GitHub |
+|---|---|
+| parame5h | [@parame5h](https://github.com/parame5h) |
+| Afsal Salim | [@afsal63s](https://github.com/afsal63s) |
+
+Original team repository: [afsal63s/TEAMHUSH_VYUHAM26](https://github.com/afsal63s/TEAMHUSH_VYUHAM26)
